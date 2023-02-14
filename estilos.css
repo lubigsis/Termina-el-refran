@@ -80,3 +80,13 @@
     color: #fff;
     border: 1px solid #fff;
 }
+
+.contenedor-total .contenedor-refran-input .contenedor-respuesta{
+    width: 100%;
+    height: auto;
+    font-size: 25px;
+    letter-spacing: 2px;
+    color: rgb(255, 0, 0);
+    padding: 30px;
+
+}
